@@ -7,6 +7,8 @@ Interactive Quiz Game Using HTML, CSS, and JavaScript
 ✅ Objective:
 The aim of this project is to build a simple and interactive quiz game that tests the user’s knowledge with multiple-choice questions, providing instant feedback and score tracking.
 
+Live Demo: https://biswaspriti123.github.io/SCT_WD_3/
+
 
 🛠️ Technologies Used:
 HTML – To structure the quiz layout.
